@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Document information -->
+    <meta charset="UTF-8">
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- Document Content -->    
+
+    <header>Yann Nzirabatinyi</header>
+          <imag src="dwayne.jpg" alt="The best man" width="500" height="600"
+        
+    <!DOCTYPE html>
+      <header>Tags that I learned</header>
+        <ul>
+          <li>img src="img_something.jpg" alt="The something" width="" height=""</li>
+          <li><ul></ul></li>
+          <li><abbr></abbr></li>
+          <li><sup></sup></li>
+          <li><em></em></li>
+        </ul>
+
+    <main>
+        <article>
+            <h1>About Me
+            <p>I am someone who loves sport because sport is really something that I like and that's why I would like to be an athlete once I finish my studies because I could earn my living By winning championships like this I could fully live my passion and encourage other young people to fight for their dreams<sup>H2o</sup></sup></p>
+            <p>I eat a lot, I love food in general, especially burgers and fries are my favorite dishes, and to drink, I like beer because it is a drink that I love since my seventeenth birthday .I also adore ice cream since my childhood, my favorite flavors are vanilla and chocolate</p>
+            <blockquote cite="URL">
+                Welcome to Jumanji
+            </blockquote>
+        </article>
+    </main>
+   <ul>
+     <li>Sport</li>
+     <li>Cooking</li>
+   </ul>
+  <footer>
+    <p>Author:Filbert Rweyemamu</p>
+    <p><a herf="https://www.theeastafrican.co.ke">https://www.theeastafrican.co.ke</a></p>
+  </footer>
+  <nav>
+      <a herf="index.html">HOME</a> - <a herf="notes.html">NOTE</a>
+  </nav>
